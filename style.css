@@ -1,0 +1,41 @@
+body {
+    margin: 100px;
+    margin-top: 10px;
+    background-color: rgb(207, 190, 166);
+}
+
+#tytul {
+    font-family: "Prociono", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100px;
+    margin-top: 0;
+    border-left: 5px solid black;
+    padding: 10px;
+}
+
+#container {
+    border: 5px solid black;
+    width: 40%;
+    height: 200px;
+    border-radius: 10px;
+}
+
+#zawartosc {
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    gap: 10px;
+}
+
+#year {
+    width: 300px;
+    height: 50px;
+}
+
+#odpowiedz {
+    margin-top: 50px;
+    border: 5px solid black;
+    width: 40%;
+    height: 70px;
+}
